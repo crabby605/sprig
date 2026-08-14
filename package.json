@@ -35,7 +35,7 @@
 		"js-levenshtein": "^1.1.6",
 		"loops": "^1.0.1",
 		"ms": "^2.1.3",
-		"nanoid": "^4.0.1",
+		"nanoid": "^5.1.16",
 		"node-statsd": "^0.1.1",
 		"postprocessing": "^7.0.0-alpha-1",
 		"preact": "^10.6.5",
