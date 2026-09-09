@@ -46,7 +46,7 @@
 		"three": "^0.149.0",
 		"throttle-debounce": "^5.0.0",
 		"tinykeys": "^1.4.0",
-		"vitest": "^2.0.3",
+		"vitest": "^4.1.11",
 		"y-codemirror.next": "^0.3.4",
 		"y-webrtc": "^10.3.0",
 		"yjs": "^13.6.16"
